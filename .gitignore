@@ -1,0 +1,7 @@
+src-index.html
+encrypted/
+.staticrypt.json
+*.config.json
+.DS_Store
+*.py
+build_refs.py
